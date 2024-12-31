@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/accountscontroller.ts","./src/controllers/walletcontroller.ts","./src/middleware/middleware.ts","./src/routes/accountsroutes.ts","./src/routes/walletroutes.ts","./src/types/express.d.ts"],"version":"5.7.2"}
